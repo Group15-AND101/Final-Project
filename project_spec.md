@@ -9,7 +9,7 @@
 
 ## App Overview
 
-### Description 
+### Description & Evaluation
 <!-- Evaluation of your app across the following attributes -->
 
 - **Description**: Display data about global metrics (e.g., population, number of cars on the road, etc.) as well as other intriguing pieces of data (images, etc.).
