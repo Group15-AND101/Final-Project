@@ -56,7 +56,8 @@ Required Feature
 ## Wireframes
 
 <!-- Add picture of your hand sketched wireframes in this section -->
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+We decided it would be easier to collaborate using Figma instead of doing hand sketched wireframes:
+<img src="[YOUR_WIREFRAME_IMAGE_URL](https://i.imgur.com/ZolSfxM.png)" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
