@@ -1,4 +1,23 @@
+# **WorldView**
 
+## Table of Contents
+
+1. [App Overview](#App-Overview)
+1. [Product Spec](#Product-Spec)
+1. [Wireframes](#Wireframes)
+1. [Build Notes](#Build-Notes)
+
+## App Overview
+
+### Description 
+<!-- Evaluation of your app across the following attributes -->
+
+- **Description**: Display data about global metrics (e.g., population, number of cars on the road, etc.) as well as other intriguing pieces of data (images, etc.).
+- **Category**: All-purpose/Information
+- **Story**: This application provides data to inform users about the state of human civilization through the presentation of metrics and other data. Think of WorldView as the front page of your phone for global awareness.
+- **Market**: General population, data enthusiasts, educators, students.
+- **Habit**: Used for gaining objective understanding about world state, educational purposes, or satisfying curiosity about global statistics.
+- **Scope**: Utilizing multiple views to display the output of various APIs. Initial focus on fundamental data presentation, with potential to expand based on time and resources.
 ## Product Spec
 
 ### 1. User Features (Required and Optional)
