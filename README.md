@@ -8,13 +8,13 @@ Submitted by:
 - **Yen Nguyen**
 - **Arthur Cheung**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **short description of your app**
+This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **display data about global metrics (e.g., population, number of cars on the road, etc.) as well as other intriguing pieces of data (images, etc.).******
 
-If we had to describe this milestone in three (3) emojis, they would be: **emojis here**
+If we had to describe this milestone in three (3) emojis, they would be: **🌎🌎🌎**
 
 ## Milestone Requirements
 
@@ -29,16 +29,16 @@ The following REQUIRED files are included:
 
 - [X] Included 📄 `brainstorming.md`, which contains:
   - [X] Our initial brainstorming ideas (6+ ideas)
-  - [ ] 5-category evaluation of our top 3 ideas
+  - [x] 5-category evaluation of our top 3 ideas
   - [X] Final app idea chosen
 - [X] Included 📄 `project_spec.md`, which contains:
   - [X] App Overview: Description and evaluation
   - [X] App Spec: User features, Chosen API(s), User Interactions
-  - [] Wireframe image(s)
+  - [X] Wireframe image(s)
 
 The following BONUS features are implemented:
 
-- [ ] Added digital wireframe/mockup image(s)
+- [X] Added digital wireframe/mockup image(s)
 - [ ] Added a Video/GIF of an interactive prototype
 
 The following EXTRA features are implemented:
