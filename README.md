@@ -39,7 +39,7 @@ The following REQUIRED files are included:
 The following BONUS features are implemented:
 
 - [X] Added digital wireframe/mockup image(s)
-- [ ] Added a Video/GIF of an interactive prototype
+- [x] Added a Video/GIF of an interactive prototype
 
 The following EXTRA features are implemented:
 
