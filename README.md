@@ -47,5 +47,5 @@ The following EXTRA features are implemented:
 
 ## Notes
 
-Here's a place for any other notes on this milestone!
+Our team designed the wireframe directly on Figma without any pre-sketching work.
 
